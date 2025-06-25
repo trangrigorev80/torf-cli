@@ -1,0 +1,5 @@
+[project]
+name = "torf-cli"
+version = "0.1.0"
+description = "CLI tool for creating, reading and editing torrent files"
+requires-python = ">=3.10"
